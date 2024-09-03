@@ -1,2 +1,2 @@
 # maven repository
- maven dependancie
+ maven dependancies are storied here
